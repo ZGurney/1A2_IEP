@@ -1,0 +1,7 @@
+* C:\users\crossover\My Documents\Cambridge\Work\Projects\1A2_IEP\LTSpice_Exercises\190227_IEP_Ex1.asc
+R1 Vload N001 100
+R2 Vload 0 900
+V1 N001 0 10
+.op
+.backanno
+.end
